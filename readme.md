@@ -1,6 +1,8 @@
 # Design and Defense
 ### Andrew Lovett-Barron
 Initial sketchpad for a personal exploration: to understand that design has had in shaping national defense practice, and the role that national defense has had in shaping the practice of design.
+A more focused varient of [github.com/readywater/reading-list](https://github.com/readywater/reading-list)
+
 
 ## Non military
 ### Articles
