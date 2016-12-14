@@ -15,14 +15,14 @@
 
 	
 ### Chat with Alex Ryan (notes)
-http://necsi.edu/events/iccs2011/papers/40.pdf
-https://medium.com/the-overlap/a-personal-reflection-on-introducing-design-to-the-u-s-army-3f8bd76adcb2
-shimon naveh
-huba wass de czege
-Rob McClary
-Ben Zweibelson
-Ben is Course Director, Design Programs
-Joint Special Operations University
-Chris Papparone
-Harold Nelson has done some design teaching NPS
-Sarah Brooks
+- http://necsi.edu/events/iccs2011/papers/40.pdf
+- https://medium.com/the-overlap/a-personal-reflection-on-introducing-design-to-the-u-s-army-3f8bd76adcb2
+- shimon naveh
+- huba wass de czege
+- Rob McClary
+- Ben Zweibelson
+- Ben is Course Director, Design Programs
+- Joint Special Operations University
+- Chris Papparone
+- Harold Nelson has done some design teaching NPS
+- Sarah Brooks
