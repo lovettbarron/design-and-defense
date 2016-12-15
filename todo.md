@@ -12,7 +12,7 @@
 - http://necsi.edu/events/iccs2011/papers/40.pdf
 - https://medium.com/the-overlap/a-personal-reflection-on-introducing-design-to-the-u-s-army-3f8bd76adcb2#.scjanaw08
 - http://www.frontpagemag.com/fpm/259444/murder-human-terrain-system-dawn-perlmutter
-
+- https://steveblank.com/2016/11/10/how-the-marine-corps-builds-an-innovation-culture/
 	
 ### Chat with Alex Ryan (notes)
 - http://necsi.edu/events/iccs2011/papers/40.pdf
