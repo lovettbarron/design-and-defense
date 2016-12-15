@@ -27,6 +27,7 @@ Also see [github.com/readywater/reading-list](https://github.com/readywater/read
 - [Defense Innovation Unit Experimental](https://www.diux.mil/) - Innovation + VC model
 - [Human Terrain Systems](https://en.wikipedia.org/wiki/Human_Terrain_System) - Military embedded ethnographers/designers
 - - [HTS chief ousted](https://www.wired.com/2010/06/human-terrain-chief-ousted/#more-26041) - Info on troubled nature of HTS program
+- - [_Montgomery McFate, Andrea Jackson_, An Organizational Solution for DOD's Cultural Knowledge Needs](http://www.au.af.mil/au/awc/awcgate/milreview/mcfate2.pdf)
 
 ## Military
 ### American
