@@ -26,6 +26,7 @@ Also see [github.com/readywater/reading-list](https://github.com/readywater/read
 - [Hacking4Defense](http://www.h4di.org/) - Student product+systems design at Stanford
 - [Defense Innovation Unit Experimental](https://www.diux.mil/) - Innovation + VC model
 - [Human Terrain Systems](https://en.wikipedia.org/wiki/Human_Terrain_System) - Military embedded ethnographers/designers
+- - [HTS chief ousted](https://www.wired.com/2010/06/human-terrain-chief-ousted/#more-26041) - Info on troubled nature of HTS program
 
 ## Military
 ### American
