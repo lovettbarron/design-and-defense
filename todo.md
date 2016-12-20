@@ -16,6 +16,7 @@
 - http://www.frontpagemag.com/fpm/259444/murder-human-terrain-system-dawn-perlmutter
 - https://steveblank.com/2016/11/10/how-the-marine-corps-builds-an-innovation-culture/
 - [Planners' Handbook for Operational Design](http://www.dtic.mil/doctrine/doctrine/jwfc/opdesign_hbk.pdf)
+- https://www.mca-marines.org/files/MCWP%205-1%20MCPP.pdf
 
 ### Chat with Alex Ryan (notes)
 - http://necsi.edu/events/iccs2011/papers/40.pdf
