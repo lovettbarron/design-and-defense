@@ -17,6 +17,8 @@
 - https://steveblank.com/2016/11/10/how-the-marine-corps-builds-an-innovation-culture/
 - [Planners' Handbook for Operational Design](http://www.dtic.mil/doctrine/doctrine/jwfc/opdesign_hbk.pdf)
 - https://www.mca-marines.org/files/MCWP%205-1%20MCPP.pdf
+- https://en.wikipedia.org/wiki/Intentional_stance
+- https://prezi.com/xutbc4yrqhr9/10-layer-model/
 
 ### Chat with Alex Ryan (notes)
 - http://necsi.edu/events/iccs2011/papers/40.pdf
