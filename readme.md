@@ -10,6 +10,9 @@ Also see [github.com/readywater/reading-list](https://github.com/readywater/read
 - [_Paul Rennie_, Social Vision](http://eyemagazine.com/feature/article/social-vision)
 - [_Eyal Weizman_, Walking Through Walls](http://www.publicspace.org/en/text-library/eng/b018-walking-through-walls-soldiers-as-architects-in-the-israeli-palestinian-conflict),[2](http://eipcp.net/transversal/0507/weizman/en)
 - [_Alex Ryan_, Applications of Complex Systems to Operational Design](http://necsi.edu/events/iccs2011/papers/40.pdf)
+- [_Alastair Gordon_, War Shelters, Short Lived yet Living On](https://www.nytimes.com/2014/01/02/garden/war-shelters-short-lived-yet-living-on.html?_r=0)
+- [_Allison Meiers_, How a Leg Splint Shaped The Iconic Eames Chair](http://hyperallergic.com/328930/leg-splint-shaped-iconic-eames-chair/)
+- [_Allison Meiers_, The Sculptor Who Made Masks for Soldiers Disfigured in World War I](http://hyperallergic.com/314255/the-sculptor-who-made-masks-for-soldiers-disfigured-in-world-war-i/)
 
 ### Books
 - [_Robert Coram_, Boyd](http://amzn.to/2h9FSJx)
