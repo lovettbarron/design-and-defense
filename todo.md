@@ -35,3 +35,4 @@
 
 ### To consider
 - [McCann group branding of Army](http://adage.com/article/agency-news/mccann-u-s-army-account/208630/). Any real significance to the discussion?
+- [List of Gov-y design resources](https://github.com/johnrieth/gov-design/blob/master/Government%20Design.md)
